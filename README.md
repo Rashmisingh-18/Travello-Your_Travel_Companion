@@ -9,11 +9,14 @@
 📍 So, enter the place you want to visit and let's go🚀!!<br>
   <br>
   <br>
-
  
   ![Screenshot 2023-06-29 181915](https://github.com/Rashmisingh-18/Travello-Your_Travel_Companion/assets/90052358/57a79912-d1a1-4ec0-bd4d-a9350e54ba1f)
-  ![Screenshot 2023-06-29 181443](https://github.com/Rashmisingh-18/Travello-Your_Travel_Companion/assets/90052358/0e630450-895e-47de-b35d-e14f10627129)
-  ![Screenshot 2023-06-29 181656](https://github.com/Rashmisingh-18/Travello-Your_Travel_Companion/assets/90052358/b7dc76e0-4803-42c8-a681-4d5a6f1a3efb)
+  <br>
+
+  <br>![Screenshot 2023-06-29 181443](https://github.com/Rashmisingh-18/Travello-Your_Travel_Companion/assets/90052358/0e630450-895e-47de-b35d-e14f10627129)
+  <br>
+  
+  <br>![Screenshot 2023-06-29 181656](https://github.com/Rashmisingh-18/Travello-Your_Travel_Companion/assets/90052358/b7dc76e0-4803-42c8-a681-4d5a6f1a3efb)
 
 
 
